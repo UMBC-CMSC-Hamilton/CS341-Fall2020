@@ -1,0 +1,3 @@
+I've implemented a linked list stack with template parameter T just to show how it is done and to give you an example of most of the template functionality that you might need for the project.  Templates are difficult.  
+
+Remember, all of your code needs to go into the .h file, you have no .cpp file.  Using a .cpp file without some trickery results in linker errors and all kinds of additional horrors.  
